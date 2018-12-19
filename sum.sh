@@ -1,4 +1,5 @@
 #!/bin/bash
+# it is a shell script for addition of two numbers
 echo "enter first numbers: "
 read x 
 echo "enter second number: "
