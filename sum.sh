@@ -1,6 +1,7 @@
 #!/bin/bash
 # it is a shell script for addition of two numbers
 trying to merge branch with master
+starting jenkins
 echo "enter first numbers: "
 read x 
 echo "enter second number: "
